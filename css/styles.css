@@ -132,6 +132,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#ronald-vilorio-cover {
+    background-image: url("http://imgur.com/hl3KKZZ.jpg");
+  }
+
+  #ronald-vilorio-card {
+    background-image: url("http://imgur.com/C0Kgm4a.jpg");
+  }
 
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
